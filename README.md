@@ -1,3 +1,9 @@
+# Redux and React training
+
+Tutorial from Rowland Ekemezie found [here](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1).
+
+## Useful info
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
